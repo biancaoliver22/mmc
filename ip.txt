@@ -1,0 +1,30 @@
+
+Configuraá∆o de IP do Windows
+
+
+Adaptador Ethernet Ethernet:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+
+Adaptador de Rede sem Fio Conex∆o Local* 10:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+
+Adaptador de Rede sem Fio Conex∆o Local* 11:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+
+Adaptador de Rede sem Fio Wi-Fi 4:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Endereáo IPv6 . . . . . . . . . . : 2804:1264:cb00:300:97b0:ea7:46cf:a6c
+   Endereáo IPv6 Tempor†rio. . . . . . . . : 2804:1264:cb00:300:1122:ed27:e77a:a905
+   Endereáo IPv6 Tempor†rio. . . . . . . . : 2804:1264:cb00:300:2965:adda:f96:1ad5
+   Endereáo IPv6 de link local . . . . . . . . : fe80::b2de:609d:c698:4e37%2
+   Endereáo IPv4. . . . . . . .  . . . . . . . : 192.168.1.132
+   M†scara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Gateway Padr∆o. . . . . . . . . . . . . . . : fe80::c225:2fff:fe45:83e2%2
+                                                 192.168.1.1
